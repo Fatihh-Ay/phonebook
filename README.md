@@ -24,7 +24,7 @@ To use this project, run the script and follow the prompts.
 
 The main script:
 - `phonebook.ipynb`
-- 'phonebook.py'
+- `phonebook.py`
 
 ## **Contributing**
 
