@@ -13,7 +13,8 @@ To install this project, follow these steps:
 1. Clone the repository
 2. Run the script
 
-You don't need to install any packages.
+In this program, the csv module is used to read and write CSV files.
+There is no need to install any additional packages for installation. The csv module is a part of Python's standard library
 
 ## **Usage**
 
