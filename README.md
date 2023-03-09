@@ -22,7 +22,9 @@ To use this project, run the script and follow the prompts.
 
 ## **Files**
 
-- `phonebook(.csv).ipynb`: The main script
+The main script:
+- `phonebook.ipynb`
+- 'phonebook.py'
 
 ## **Contributing**
 
