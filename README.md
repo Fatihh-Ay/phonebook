@@ -14,7 +14,7 @@ To install this project, follow these steps:
 2. Run the script
 
 In this program, the csv module is used to read and write CSV files.
-There is no need to install any additional packages for installation. The csv module is a part of Python's standard library
+There is no need to install any additional packages for installation. The csv module is a part of Python's standard library.
 
 ## **Usage**
 
